@@ -1,9 +1,9 @@
 # card-nlw-copa
 
-### Sobre
+# Sobre
     - Projeto construído no evento nlw da rocketseat
 
-# Tecnologias
+### Tecnologias
     - HTML
     - CSS
     - JavaScript
